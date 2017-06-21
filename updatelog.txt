@@ -1,0 +1,130 @@
+File Version Alpha 0.33
+Implemented NPC
+Implemented Item Menu as well as working Items
+Created map generator with User Interface
+
+File Version Alpha 0.32
+SavedData
+	Finalized implementation of scanning amiibo. Now works on both Mac OSX and Windows
+Item
+	New class to handle item gain and usage
+
+File Version Alpha 0.31
+NewGame
+	Implemented ability for user to input Name and Gender!
+
+File Version Alpha 0.3
+UserMenu
+	Added Screen for Chest to change Party
+	Added dialogue "CHANGE_PARTY" to be registered as the party to be changed
+	Added NPC image to be added behind text box
+AmiiboLandGameMapGUI
+	Added keys for changing party
+Dialogue
+	Added third parameter to be taken in, sound
+Movement
+	Added new collision of "Chest" and "Nurse"
+AmiiboLandGameMap
+	Added new NPC to interact with, Nurse and Chest. Nurse will heal you if you have injured Amiibo, Chest will set new Party
+
+
+File Version Alpha 0.2
+UserMenu
+	Created new class that is designated to print out the Menus
+AmiiboLandGameMapGUI
+	Added Scan Amiibo function, awaiting minor details like directory of Google Drive
+SavedData
+	Modified code for Scan Amiibo as it was not working properly
+	Fixed bug where it would not register if an amiibo was obtained or not
+
+File Version Alpha 0.1 
+AmiiboLandGameMapGUI
+	Implemented Party system and menu
+	Switched game to 32x32 tiles, increasing to 40x24 tiles
+AmiiboLandMapEncounters
+	Implemented random encounters
+PlaySound
+	New class to play sound and music
+
+File Version 0.10 January 27, 2015
+AmiiboLandGameMapGUI
+	Implemented View Collection Window
+	Created Amiibo Icons
+	Removed Redundant methods
+AmiiboLandGameGetImage
+	Created new method for print
+
+
+File Version 0.9 January 26, 2015
+AmiiboLandGameMapGUI
+SavedData
+	Implemented Save and Load features, awaiting Amiibo Party system to save that
+	Able to store triggers such as if player has beaten x before, or if player has visited y
+	Quitting will now take player to main menu without saving
+Maps
+	New maps as well as teleporting to new map layout
+	Warping to other maps now provides correct spawn points
+
+
+File Version 0.8 January 25, 2015
+Main Menu
+	Implemented new method of updating main menu images seamlessly
+Start Menu
+	Implemented successfully into the game. Waiting on features being added in
+	BUG: Not being rendered over top of the game. 
+
+File Version 0.7 January 25, 2015
+New Game
+	Implemented new game menu. Awaiting script and inputting name/selecting gender
+	Awaiting save game method
+Main Menu
+	Implemented Continue game, loads the game
+	Awaiting save game method
+SavedData
+	Implemented ability to read files
+Created LinkedList, Dialogue class
+Combined Game to Main Menu GUI
+
+File Version 0.6 January 24, 2015
+Main Menu
+	Got image switching to work. Currently waiting for New Game and Continue options
+Start Menu
+	image switching works. Waiting for other menus
+	BUG: Need to figure a way to implement pausing
+
+File Version 0.5 January 22, 2015
+Textures
+	Finished UI interface textures
+	Finished textures for overworld. Grass, streets and dirt.
+Main Menu
+	Created placeholder for Main Menu, awaiting logo and redesign
+
+
+File Version 0.4a
+Amiibo.java 
+	Fixed glitch where if user gained enough exp to level twice, they will
+	Added UI textures
+	Updated attack log for amiibo
+
+File Version 0.4
+Battle.java
+	Implemented actual fighting calculation and running. Still needs GUI
+	Added new EXP growth
+
+File Version 0.3
+saveData.java
+	Modified saveData.java to scan multiple XML files at once as opposed to just one
+Created Battle.java for battles. 
+	Battle.java implemented class efficiency
+	Implemented basic structure of battle
+Amiibo.class:
+Replaced usage of Amiibo[] to using a Party class that stores amiibos
+Updated Amiibo stat increase to be randomly generated
+
+File Version 0.2
+Updated Amiibo.java to include field for if Amiibo has been obtained
+Creation of savedData.java that is used for saving, scanning and loading amiibo data
+
+File Version 0.1
+Updated Amiibo.java to fully implement readability and stats. As well as levelup, stat increase methods
+Created saveAmiibo.txt and added some identifiers

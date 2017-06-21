@@ -1,0 +1,49 @@
+0,Mario,Brawler,Mushroom Kingdom,1,0,7,3,10,10,5,5,Stomp,Fire Ball,21000000,000b0002,0
+1,Donkey Kong,Creature,Donkey Kong,1,0,9,1,10,10,8,2,Punch,Donkey Kong Bongo,00080000,00030002,0
+2,Link,Swordsman,Hyrule,1,0,8,2,10,10,5,5,Master Sword,Bow,01000000,00040002,0
+3,Samus,Tech,Metroid,1,0,4,6,10,10,5,5,Tackle,Blaster,05c00000,00060002,0
+4,Yoshi,Brawler,Mushroom Kingdom,1,0,9,1,10,10,5,5,Flutter Kick,Lick,00030000,00020002,0
+5,Kirby,Brawler,Dream Land,1,0,5,5,10,10,2,8,Hammer,Suck,1f000000,000a0002,0
+6,Fox,Brawler,StarFox,1,0,7,3,10,10,3,7,Kick,Blaster,05800000,00050002,0
+7,Pikachu,Creature,Pokemon,1,0,3,7,10,10,6,4,Tackle,Thunder,19190000,00090002,0
+8,Luigi,Brawler,Mushroom Kingdom,1,0,7,3,10,10,4,6,Stomp,Vaccuum,0,0,0
+9,Captain Falcon,Brawler,F-Zero,1,0,9,1,10,10,2,8,Falcon Punch,"Show Me Your Moves",0,0,0
+10,Peach,Princess,Mushroom Kingdom,1,0,5,5,10,10,1,9,Tennis Racket,Turnip,00020000,00010002,0
+11,Bowser,Creature,Mushroom Kingdom,1,0,7,3,10,10,8,2,Punch,Fire Blast,0,0,0
+12,Zelda,Princess,Hyrule,1,0,1,9,10,10,2,8,Attack,Special Attack,01010000,000e0002,0
+13,Sheik,Brawler,Hyrule,1,0,5,5,10,10,8,2,Attack,Special Attack,0,0,0
+14,Marth,Swordsman,Fire Emblem,1,0,9,1,10,10,9,1,Attack,Special Attack,21000000,000b0002,0
+15,Meta Knight,Swordsman,Dream Land,1,0,9,1,10,10,5,5,Attack,Special Attack,0,0,0
+16,Pit,Mythical,Kid Icarus,1,0,6,4,10,10,3,7,Attack,Special Attack,0,0,0
+17,Zero Suit Samus,Brawler,Metroid,1,0,8,2,10,10,5,5,Attack,Special Attack,0,0,0
+18,Ike,Swordsman,Fire Emblem,1,0,9,1,10,10,8,2,Attack,Special Attack,0,0,0
+19,Charizard,Creature,Pokemon,1,0,5,5,10,10,7,3,Attack,Special Attack,0,0,0
+20,Diddy Kong,Creature,Donkey Kong,1,0,8,2,10,10,5,5,Attack,Special Attack,00090000,000d0002,0
+21,King DeDeDe,Creature, Dream Land,1,0,7,3,10,10,7,3,Attack,Special Attack,0,0,0
+22,Pikmin & Olimar,Tech,Pikmin,1,0,2,8,10,10,5,5,Attack,Special Attack,0,0,0
+23,Lucario,Creature,Pokemon,1,0,6,4,10,10,4,6,Attack,Special Attack,0,0,0
+24,Toon Link,Swordsman,Hyrule,1,0,5,5,10,10,5,5,Attack,Special Attack,0,0,0
+25,Villager,Brawler,Animal Crossing,1,0,1,9,10,10,2,8,Attack,Special Attack,01800000,00080002,0
+26,Wii Fit Trainer,Brawler,Nintendo,1,0,5,5,10,10,6,4,Attack,Special Attack,07000000,00070002,0
+27,Rosalina & Luma,Magic,Mushroom Kingdom,1,0,2,8,10,10,3,7,Attack,Special Attack,0,0,0
+28,Little Mac,Brawler,Knock Out Punch,1,0,9,1,10,10,8,2,Attack,Special Attack,06c00000,000f0002,0
+29,Greninja,Creature,Pokemon,1,0,7,3,10,10,5,5,Attack,Special Attack,0,0,0
+30,Palutena,Magic,Kid Icarus,1,0,1,9,10,10,6,4,Attack,Special Attack,0,0,0
+31,Robin,Magic,Fire Emblem,1,0,9,1,10,10,6,4,Attack,Special Attack,0,0,0
+32,Lucina,Swordsman,Fire Emblem,1,0,9,1,10,10,5,5,Attack,Special Attack,0,0,0
+33,Shulk,Swordsman,Chronicles of Xenoblade,1,0,9,1,10,10,7,3,Attack,Special Attack,0,0,0
+34,Sonic,Brawler,Sonic,1,0,9,1,10,10,5,5,Attack,Special Attack,0,0,0
+35,Mega Man,Tech,Mega-Man,1,0,5,5,10,10,6,4,Attack,Special Attack,0,0,0
+36,Pac-Man,Brawler,Pac-Man,1,0,6,4,10,10,7,3,Attack,Special Attack,0,0,0
+37,Ness,Magic,EarthBound,1,0,3,7,10,10,3,7,Attack,Special Attack,0,0,0
+38,Falco,Brawler,StarFox,1,0,7,3,10,10,5,5,Attack,Special Attack,0,0,0
+39,Wario,Brawler,Mushroom Kingdom,1,0,9,1,10,10,6,4,Attack,Special Attack,0,0,0
+40,Dr. Mario,Brawler,Mushroom Kingdom,1,0,7,3,10,10,7,3,Attack,Special Attack,0,0,0
+41,Dark Pit,Mythical,Kid Icarus,1,0,6,4,10,10,8,2,Attack,Special Attack,0,0,0
+42,Ganondorf,Mythical,Hyrule,1,0,7,3,10,10,6,4,Attack,Special Attack,0,0,0
+43,R.O.B.,Tech,Nintendo,1,0,5,5,10,10,4,6,Attack,Special Attack,0,0,0
+44,Bowser Jr.,Tech,Mushroom Kingdom,1,0,2,8,10,10,8,2,Attack,Special Attack,0,0,0
+45,Mr. Game & Watch,Tech,Nintendo,1,0,5,5,10,10,5,5,Attack,Special Attack,0,0,0
+46,Duck Hunt,Creature,Nintendo,1,0,5,5,10,10,4,6,Attack,Special Attack,0,0,0
+47,Jigglypuff,Creature,Pokemon,1,0,1,9,10,10,7,3,Attack,Special Attack,0,0,0
+48,Mewtwo,Magic,Pokemon,1,0,5,5,10,10,4,6,Attack,Special Attack,0,0,0
